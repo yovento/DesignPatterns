@@ -1,0 +1,6 @@
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\IteratorPattern\bin\Debug\IteratorPattern.exe
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\IteratorPattern\bin\Debug\IteratorPattern.pdb
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\IteratorPattern\obj\Debug\IteratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\IteratorPattern\obj\Debug\IteratorPattern.exe
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\IteratorPattern\obj\Debug\IteratorPattern.pdb

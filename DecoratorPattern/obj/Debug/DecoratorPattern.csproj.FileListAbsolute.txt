@@ -1,0 +1,7 @@
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\DecoratorPattern\obj\Debug\DecoratorPattern.csprojAssemblyReference.cache
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\DecoratorPattern\obj\Debug\DecoratorPattern.pdb

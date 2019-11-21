@@ -1,0 +1,6 @@
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\SingletonPattern\obj\Debug\SingletonPattern.pdb

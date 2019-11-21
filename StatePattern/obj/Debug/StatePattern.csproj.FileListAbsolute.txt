@@ -1,0 +1,6 @@
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\StatePattern\bin\Debug\StatePattern.exe.config
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\StatePattern\bin\Debug\StatePattern.exe
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\StatePattern\bin\Debug\StatePattern.pdb
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\StatePattern\obj\Debug\StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\StatePattern\obj\Debug\StatePattern.exe
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\StatePattern\obj\Debug\StatePattern.pdb

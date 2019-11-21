@@ -1,0 +1,6 @@
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\AdapterPattern\bin\Debug\AdapterPattern.exe
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\AdapterPattern\bin\Debug\AdapterPattern.pdb
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\AdapterPattern\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\AdapterPattern\obj\Debug\AdapterPattern.exe
+C:\Users\Yovento\Google Drive\Personal\Desarrollos\New Age\DesignPatternsSkeleton-master\AdapterPattern\obj\Debug\AdapterPattern.pdb
